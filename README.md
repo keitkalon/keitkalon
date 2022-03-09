@@ -32,6 +32,11 @@
 ---
 🤝 I’m looking to collaborate with you guys
 
+#### Connect me:
+
+<a href="https://www.linkedin.com/in/lamine-keita-6669b3233/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/lamine-keita-6669b3233/"/></a> <a href="mailto:keitkalon@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:keitkalon@gmail.com"/></a>
+
+
 ---
 #### GitHub Analytics
 
