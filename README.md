@@ -1,8 +1,8 @@
+ Hi guys :wave: my name is Lamine Kalona Keita and I Code like I ain't afraid of no :ghost:
 
-:ship:### Shipping Creative Work and Encapsulated Solution :pill:
 
 ---
-:wave: Hi guys my name is Kalona and I Code like I ain't afraid of no :ghost:
+:ship:### Let's Ship Creative Work and Encapsulated Solution :pill:
 
 ---
 ### First let's laugh 😂 Here the joke of the moment! 
