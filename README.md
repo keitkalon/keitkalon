@@ -12,11 +12,11 @@
 🧔 A few words about Me
  
  I am a 42 year old full stack developer from Romania and 
- Currently I am a Student in the Advance Module from CodeCool Academy
+ currently I am a Student in the Advanced Module from CodeCool Academy
  
- I start to code from 2020 and my first love has been Javascript: from ExpressJS to Frontend DOM manipulation.
+ I started to code in 2020 and my first love has been Javascript: from ExpressJS to Frontend DOM manipulation.
  
- From February 2021 I start the CodeCool Academy
+ From February 2021 I started the CodeCool Academy
  
  Currently I mainly focus on OOP, RestAPI with .Net, Microsoft SQL, C#, ReactJs, Python, Postgres, Flask, Javascript.
  But I am eager to learn Java, Flutter, GoLang and open to learn new things 
